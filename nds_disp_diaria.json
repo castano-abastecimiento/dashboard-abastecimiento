@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-30T10:55:52",
+ "generado": "2026-11-02T09:50:27",
  "dias": [
   {
    "fecha": "2025-12-30",
@@ -5480,6 +5480,44 @@
     {
      "sku": "400292",
      "desc": "FILM CAS MINI QUEQUE VAINILLA(IND)06.24"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-02",
+   "disp": 98.4,
+   "n_solic": 448,
+   "n_cero": 7,
+   "n_excl_granel": 7,
+   "n_anom_neg": 5,
+   "skus_cero": [
+    {
+     "sku": "300111",
+     "desc": "CEBOLLA PICADA CUBO"
+    },
+    {
+     "sku": "300326",
+     "desc": "OREGANO HOJA KG"
+    },
+    {
+     "sku": "300506",
+     "desc": "SABORIZANTE QUESO MANTECOSO Q2576926"
+    },
+    {
+     "sku": "300540",
+     "desc": "GRANOVIT BRD-5423 (VEGANO)"
+    },
+    {
+     "sku": "400043",
+     "desc": "ETIQ.SATO LOTE/CONSUMIR HASTA"
+    },
+    {
+     "sku": "400091",
+     "desc": "FILM (BROWNIE) BOPP 230 X 0,040 C/TACA"
+    },
+    {
+     "sku": "400634",
+     "desc": "FILM CAS CROCATA 4 UN 01.26"
     }
    ]
   }
