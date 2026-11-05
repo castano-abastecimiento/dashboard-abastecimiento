@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-04T09:50:11",
+ "generado": "2026-11-05T10:06:05",
  "dias": [
   {
    "fecha": "2025-12-30",
@@ -5598,6 +5598,44 @@
     {
      "sku": "400676",
      "desc": "BOLSA PP TOTTUS FRUTOS SECOS 700G 09.26"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-05",
+   "disp": 98.5,
+   "n_solic": 458,
+   "n_cero": 7,
+   "n_excl_granel": 7,
+   "n_anom_neg": 5,
+   "skus_cero": [
+    {
+     "sku": "300123",
+     "desc": "PALTA"
+    },
+    {
+     "sku": "300326",
+     "desc": "OREGANO HOJA KG"
+    },
+    {
+     "sku": "300506",
+     "desc": "SABORIZANTE QUESO MANTECOSO Q2576926"
+    },
+    {
+     "sku": "400043",
+     "desc": "ETIQ.SATO LOTE/CONSUMIR HASTA"
+    },
+    {
+     "sku": "400091",
+     "desc": "FILM (BROWNIE) BOPP 230 X 0,040 C/TACA"
+    },
+    {
+     "sku": "400150",
+     "desc": "ETIQ DD GALL MINICOCADAS 90G 11.21 FRONT"
+    },
+    {
+     "sku": "400482",
+     "desc": "BOLSA CAS PAN TAPADITO  03.25 PEBD40"
     }
    ]
   }
