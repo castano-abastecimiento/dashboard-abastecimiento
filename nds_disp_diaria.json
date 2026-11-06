@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-05T10:06:05",
+ "generado": "2026-11-06T09:50:13",
  "dias": [
   {
    "fecha": "2025-12-30",
@@ -5636,6 +5636,40 @@
     {
      "sku": "400482",
      "desc": "BOLSA CAS PAN TAPADITO  03.25 PEBD40"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-06",
+   "disp": 97.0,
+   "n_solic": 203,
+   "n_cero": 6,
+   "n_excl_granel": 1,
+   "n_anom_neg": 5,
+   "skus_cero": [
+    {
+     "sku": "300409",
+     "desc": "ENZIMA PROTEASA"
+    },
+    {
+     "sku": "400043",
+     "desc": "ETIQ.SATO LOTE/CONSUMIR HASTA"
+    },
+    {
+     "sku": "400452",
+     "desc": "PP ETIQ. ROJO 80x100MM"
+    },
+    {
+     "sku": "400531",
+     "desc": "BOLSA PIERRE BLANCO XL 700G 04.25 PEBD40"
+    },
+    {
+     "sku": "400634",
+     "desc": "FILM CAS CROCATA 4 UN 01.26"
+    },
+    {
+     "sku": "400685",
+     "desc": "BOLSA PP CEN MAXIMA 500 09.26"
     }
    ]
   }
