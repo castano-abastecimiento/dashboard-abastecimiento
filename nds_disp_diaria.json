@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-06T09:50:13",
+ "generado": "2026-11-09T09:56:54",
  "dias": [
   {
    "fecha": "2025-12-30",
@@ -5670,6 +5670,76 @@
     {
      "sku": "400685",
      "desc": "BOLSA PP CEN MAXIMA 500 09.26"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-09",
+   "disp": 96.7,
+   "n_solic": 457,
+   "n_cero": 15,
+   "n_excl_granel": 7,
+   "n_anom_neg": 4,
+   "skus_cero": [
+    {
+     "sku": "300072",
+     "desc": "VAINILLINA POLVO"
+    },
+    {
+     "sku": "300178",
+     "desc": "MINI GOTITAS CHOCOLATE"
+    },
+    {
+     "sku": "300183",
+     "desc": "PIMIENTA MOLIDA"
+    },
+    {
+     "sku": "300211",
+     "desc": "CIBOULETTE"
+    },
+    {
+     "sku": "300326",
+     "desc": "OREGANO HOJA KG"
+    },
+    {
+     "sku": "300409",
+     "desc": "ENZIMA PROTEASA"
+    },
+    {
+     "sku": "300506",
+     "desc": "SABORIZANTE QUESO MANTECOSO Q2576926"
+    },
+    {
+     "sku": "400043",
+     "desc": "ETIQ.SATO LOTE/CONSUMIR HASTA"
+    },
+    {
+     "sku": "400091",
+     "desc": "FILM (BROWNIE) BOPP 230 X 0,040 C/TACA"
+    },
+    {
+     "sku": "400127",
+     "desc": "ETIQ DD SW CROCATA POLLO MAYO 08.21"
+    },
+    {
+     "sku": "400461",
+     "desc": "BOLSA CAS MOLDE INTEGRAL XL PROM 01.25"
+    },
+    {
+     "sku": "400483",
+     "desc": "BOLSA CAS PAN COPIHUE 03.25 PEBD40"
+    },
+    {
+     "sku": "400531",
+     "desc": "BOLSA PIERRE BLANCO XL 700G 04.25 PEBD40"
+    },
+    {
+     "sku": "400634",
+     "desc": "FILM CAS CROCATA 4 UN 01.26"
+    },
+    {
+     "sku": "400675",
+     "desc": "PP CAJA ENSENADA FSECOS 500G 09.26"
     }
    ]
   }
