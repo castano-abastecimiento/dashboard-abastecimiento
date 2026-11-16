@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T16:24:36",
+ "generado": "2026-11-16T09:49:23",
  "dias": [
   {
    "fecha": "2025-12-30",
@@ -5894,6 +5894,84 @@
     {
      "sku": "400091",
      "desc": "FILM (BROWNIE) BOPP 230 X 0,040 C/TACA"
+    },
+    {
+     "sku": "400633",
+     "desc": "BOLSA CAS MIGA SW 440G 12.25 (PEBD)"
+    },
+    {
+     "sku": "400634",
+     "desc": "FILM CAS CROCATA 4 UN 01.26"
+    },
+    {
+     "sku": "400635",
+     "desc": "ETIQ CAS ENS POLLO CÉSAR 12.25"
+    },
+    {
+     "sku": "400650",
+     "desc": "ETIQ CAST ENS POLLO & ARROZ 12.25"
+    },
+    {
+     "sku": "400713",
+     "desc": "CAJA PAN 600 X 400 X 210"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-16",
+   "disp": 96.1,
+   "n_solic": 439,
+   "n_cero": 17,
+   "n_excl_granel": 7,
+   "n_anom_neg": 4,
+   "skus_cero": [
+    {
+     "sku": "300072",
+     "desc": "VAINILLINA POLVO"
+    },
+    {
+     "sku": "300190",
+     "desc": "ESTABILIZANTE A4M"
+    },
+    {
+     "sku": "300211",
+     "desc": "CIBOULETTE"
+    },
+    {
+     "sku": "300318",
+     "desc": "CILANTRO FRESCO"
+    },
+    {
+     "sku": "300326",
+     "desc": "OREGANO HOJA KG"
+    },
+    {
+     "sku": "300506",
+     "desc": "SABORIZANTE QUESO MANTECOSO Q2576926"
+    },
+    {
+     "sku": "400043",
+     "desc": "ETIQ.SATO LOTE/CONSUMIR HASTA"
+    },
+    {
+     "sku": "400058",
+     "desc": "ENVASE 243 WRAP"
+    },
+    {
+     "sku": "400091",
+     "desc": "FILM (BROWNIE) BOPP 230 X 0,040 C/TACA"
+    },
+    {
+     "sku": "400435",
+     "desc": "BOLSA PP CAST ENSENADA FROJOS 800G 09.24"
+    },
+    {
+     "sku": "400488",
+     "desc": "ETIQ CAST PLATO NUGGETS CON ARROZ 03.25"
+    },
+    {
+     "sku": "400580",
+     "desc": "ETIQ CAS GALL MANTEQUILLA 80G 08.25 POS"
     },
     {
      "sku": "400633",
