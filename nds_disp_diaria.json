@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T09:50:38",
+ "generado": "2026-11-20T12:09:01",
  "dias": [
   {
    "fecha": "2025-12-30",
@@ -6194,6 +6194,44 @@
     {
      "sku": "400650",
      "desc": "ETIQ CAST ENS POLLO & ARROZ 12.25"
+    },
+    {
+     "sku": "400713",
+     "desc": "CAJA PAN 600 X 400 X 210"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-20",
+   "disp": 96.0,
+   "n_solic": 174,
+   "n_cero": 7,
+   "n_excl_granel": 0,
+   "n_anom_neg": 4,
+   "skus_cero": [
+    {
+     "sku": "300005",
+     "desc": "PP ESENCIA Z"
+    },
+    {
+     "sku": "300485",
+     "desc": "ALMIDON VERSAFIBE"
+    },
+    {
+     "sku": "400043",
+     "desc": "ETIQ.SATO LOTE/CONSUMIR HASTA"
+    },
+    {
+     "sku": "400358",
+     "desc": "BOLSA CAS MOLDE BLANCO XL PROM 12.24"
+    },
+    {
+     "sku": "400587",
+     "desc": "BOLSA CAS PITA BLANCO 06.25 CPP35"
+    },
+    {
+     "sku": "400634",
+     "desc": "FILM CAS CROCATA 4 UN 01.26"
     },
     {
      "sku": "400713",
