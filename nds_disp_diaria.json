@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T12:09:01",
+ "generado": "2026-11-23T09:51:02",
  "dias": [
   {
    "fecha": "2025-12-30",
@@ -6228,6 +6228,64 @@
     {
      "sku": "400587",
      "desc": "BOLSA CAS PITA BLANCO 06.25 CPP35"
+    },
+    {
+     "sku": "400634",
+     "desc": "FILM CAS CROCATA 4 UN 01.26"
+    },
+    {
+     "sku": "400713",
+     "desc": "CAJA PAN 600 X 400 X 210"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-23",
+   "disp": 97.3,
+   "n_solic": 443,
+   "n_cero": 12,
+   "n_excl_granel": 7,
+   "n_anom_neg": 5,
+   "skus_cero": [
+    {
+     "sku": "300007",
+     "desc": "PP ESENCIA PP NT"
+    },
+    {
+     "sku": "300062",
+     "desc": "MANTEQUILLA BARRA (GRANEL)"
+    },
+    {
+     "sku": "300211",
+     "desc": "CIBOULETTE"
+    },
+    {
+     "sku": "300326",
+     "desc": "OREGANO HOJA KG"
+    },
+    {
+     "sku": "300413",
+     "desc": "SOR MATE SL (SÓRBICO NATURAL)"
+    },
+    {
+     "sku": "300506",
+     "desc": "SABORIZANTE QUESO MANTECOSO Q2576926"
+    },
+    {
+     "sku": "400043",
+     "desc": "ETIQ.SATO LOTE/CONSUMIR HASTA"
+    },
+    {
+     "sku": "400091",
+     "desc": "FILM (BROWNIE) BOPP 230 X 0,040 C/TACA"
+    },
+    {
+     "sku": "400587",
+     "desc": "BOLSA CAS PITA BLANCO 06.25 CPP35"
+    },
+    {
+     "sku": "400590",
+     "desc": "BOLSA PP CAST CLASICO 500G 09.25"
     },
     {
      "sku": "400634",
