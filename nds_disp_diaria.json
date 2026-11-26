@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T13:55:42",
+ "generado": "2026-11-26T10:33:56",
  "dias": [
   {
    "fecha": "2025-12-30",
@@ -6394,6 +6394,92 @@
     {
      "sku": "400267",
      "desc": "ET CAS SW GOURMET PANINI NAPOLIT 05.24"
+    },
+    {
+     "sku": "400713",
+     "desc": "CAJA PAN 600 X 400 X 210"
+    }
+   ]
+  },
+  {
+   "fecha": "2026-11-26",
+   "disp": 96.2,
+   "n_solic": 496,
+   "n_cero": 19,
+   "n_excl_granel": 7,
+   "n_anom_neg": 4,
+   "skus_cero": [
+    {
+     "sku": "300012",
+     "desc": "PP ANIS POLVO"
+    },
+    {
+     "sku": "300013",
+     "desc": "PP CARDAMOMO"
+    },
+    {
+     "sku": "300068",
+     "desc": "CLAVOS DE OLOR"
+    },
+    {
+     "sku": "300072",
+     "desc": "VAINILLINA POLVO"
+    },
+    {
+     "sku": "300186",
+     "desc": "ALMENDRAS FILETADAS"
+    },
+    {
+     "sku": "300211",
+     "desc": "CIBOULETTE"
+    },
+    {
+     "sku": "300318",
+     "desc": "CILANTRO FRESCO"
+    },
+    {
+     "sku": "300326",
+     "desc": "OREGANO HOJA KG"
+    },
+    {
+     "sku": "300373",
+     "desc": "MASA MADRE FERMAID CREME"
+    },
+    {
+     "sku": "300503",
+     "desc": "ACEITE CON TOCOFEROL TOTEM"
+    },
+    {
+     "sku": "300506",
+     "desc": "SABORIZANTE QUESO MANTECOSO Q2576926"
+    },
+    {
+     "sku": "400043",
+     "desc": "ETIQ.SATO LOTE/CONSUMIR HASTA"
+    },
+    {
+     "sku": "400091",
+     "desc": "FILM (BROWNIE) BOPP 230 X 0,040 C/TACA"
+    },
+    {
+     "sku": "400267",
+     "desc": "ET CAS SW GOURMET PANINI NAPOLIT 05.24"
+    },
+    {
+     "sku": "400398",
+     "desc": "PP ETIQ. AZUL  80x100MM"
+    },
+    {
+     "sku": "400579",
+     "desc": "ETIQ CAS GALL MANTEQUILLA 80G 08.25 FR"
+    },
+    {
+     "sku": "400634",
+     "desc": "FILM CAS CROCATA 4 UN 01.26"
+    },
+    {
+     "sku": "400637",
+     "desc": "ETIQ CAS ENSALADA POLLO QUINOA 12.25"
     },
     {
      "sku": "400713",
